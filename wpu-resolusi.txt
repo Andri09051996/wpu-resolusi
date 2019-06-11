@@ -1,0 +1,3 @@
+wpu-resolusi
+1. konsisten mempelajari codeigniter
+2.buat projek codeigniter
