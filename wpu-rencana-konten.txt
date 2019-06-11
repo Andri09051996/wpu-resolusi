@@ -4,5 +4,6 @@ rencana konten
 -javascript
 -php
 -konsep codeigniter
--mempelajari model pada ci
--mempelajari view pada ci
+-konsep mvc
+-mempelajari controler pada ci
+
