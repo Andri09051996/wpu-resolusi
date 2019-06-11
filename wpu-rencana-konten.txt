@@ -5,3 +5,4 @@ rencana konten
 -php
 -konsep codeigniter
 -mempelajari model pada ci
+-mempelajari view pada ci
