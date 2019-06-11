@@ -5,3 +5,4 @@ rencana konten
 -php
 -konsep codeigniter
 -konsep mvc
+-mempelajari controler pada ci
