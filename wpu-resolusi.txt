@@ -1,4 +1,4 @@
 wpu-resolusi
 1. konsisten mempelajari codeigniter
 2.buat projek codeigniter
-3.membuat projek setiap bulan nya
+3.membuat projek setiap satu minggu sekali
